@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Santo Salgado - Os Melhores Salgados de Bertioga (Fritos e Congelados)</title>
+    <meta name="description" content="Peça os melhores salgados de Bertioga! Coxinhas, bolinhas de queijo, combos e salgados para festa. Entregamos na sua casa, fritos na hora ou congelados. Entrega grátis! Peça no WhatsApp.">
+    <meta name="keywords" content="salgados em bertioga, salgados para festa bertioga, cento de salgado, delivery de salgados, salgados fritos, salgados congelados, coxinha, bolinha de queijo, festa, lanche, entrega grátis bertioga, santo salgado">
+    <meta name="author" content="Santo Salgado">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="URL_DO_SEU_SITE_AQUI" />
+    <meta property="og:title" content="Santo Salgado - Delivery em Bertioga" />
+    <meta property="og:description" content="Sabor e praticidade na sua casa. Peça nossos salgados deliciosos, combos e kits para festa. Entrega GRÁTIS em Bertioga!" />
+    <meta property="og:image" content="https://storage.googleapis.com/gemini-prod-us-west1-920950005511/uploaded/image.png-e959ff7a-ce80-4ac6-ac50-f3fe794b3a2f" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="URL_DO_SEU_SITE_AQUI" />
+    <meta property="twitter:title" content="Santo Salgado - Delivery em Bertioga" />
+    <meta property="twitter:description" content="Sabor e praticidade na sua casa. Peça nossos salgados deliciosos, combos e kits para festa. Entrega GRÁTIS em Bertioga!" />
+    <meta property="twitter:image" content="https://storage.googleapis.com/gemini-prod-us-west1-920950005511/uploaded/image.png-e959ff7a-ce80-4ac6-ac50-f3fe794b3a2f" />
+
+
+    <!-- Favicon (using your new logo) -->
+    <link rel="icon" href="https://storage.googleapis.com/gemini-prod-us-west1-920950005511/uploaded/image.png-e959ff7a-ce80-4ac6-ac50-f3fe794b3a2f" type="image/png">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Lilita+One&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .font-heading {
+            font-family: 'Lilita One', cursive;
+        }
+        .whatsapp-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+            transition: transform 0.3s ease-in-out;
+        }
+        .whatsapp-button:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <!-- Hero Section -->
+    <header class="relative text-white overflow-hidden">
+        <div class="absolute inset-0 bg-gradient-to-br from-amber-400 via-orange-500 to-red-600"></div>
+        <div class="absolute inset-0 bg-black/30"></div>
+        
+        <div class="relative container mx-auto px-6 py-16 md:py-24 text-center">
+            <img src="https://storage.googleapis.com/gemini-prod-us-west1-920950005511/uploaded/image.png-e959ff7a-ce80-4ac6-ac50-f3fe794b3a2f" alt="Logo Santo Salgado" class="mx-auto mb-6 w-32 h-32 md:w-40 md:h-40 rounded-full shadow-2xl">
+            <h1 class="font-heading text-4xl md:text-6xl lg:text-7xl mb-4 tracking-wider text-shadow">A FELICIDADE CHEGOU!</h1>
+            <p class="text-lg md:text-2xl mb-8 max-w-3xl mx-auto font-light">Salgados deliciosos, quentinhos e crocantes, entregues na sua casa. A praticidade que você precisa com o sabor que você ama.</p>
+            <a href="https://wa.me/5513997184720?text=Ol%C3%A1%2C%20Santo%20Salgado!%20Quero%20fazer%20um%20pedido." target="_blank" class="bg-green-500 hover:bg-green-600 text-white font-bold text-lg py-4 px-8 rounded-full shadow-lg transition-transform transform hover:scale-105 inline-flex items-center">
+                <i data-lucide="whatsapp" class="w-6 h-6 mr-3"></i>
+                PEÇA AGORA PELO WHATSAPP
+            </a>
+            <p class="mt-4 text-amber-200 font-bold">ENTREGA GRÁTIS PARA BERTIOGA!</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Benefits Section -->
+        <section class="bg-white py-12 md:py-20">
+            <div class="container mx-auto px-6 text-center">
+                <h2 class="text-3xl md:text-4xl font-bold text-gray-800 mb-2">Por que todo mundo ama o Santo Salgado?</h2>
+                <p class="text-gray-600 mb-12">Simples: é fácil, rápido e divino!</p>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                    <!-- Benefit 1 -->
+                    <div class="p-6">
+                        <i data-lucide="flame" class="w-16 h-16 mx-auto text-orange-500 mb-4"></i>
+                        <h3 class="text-xl font-bold mb-2">Fritos na Hora</h3>
+                        <p class="text-gray-600">Receba seus salgados quentinhos e crocantes, prontos para devorar.</p>
+                    </div>
+                    <!-- Benefit 2 -->
+                    <div class="p-6">
+                        <i data-lucide="snowflake" class="w-16 h-16 mx-auto text-blue-400 mb-4"></i>
+                        <h3 class="text-xl font-bold mb-2">Opção Congelada</h3>
+                        <p class="text-gray-600">Garanta seu estoque de felicidade para fritar quando a fome bater.</p>
+                    </div>
+                    <!-- Benefit 3 -->
+                    <div class="p-6">
+                        <i data-lucide="bike" class="w-16 h-16 mx-auto text-green-500 mb-4"></i>
+                        <h3 class="text-xl font-bold mb-2">Entrega Grátis</h3>
+                        <p class="text-gray-600">Seu conforto é nossa prioridade. Peça e receba em casa sem custo de entrega em Bertioga.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Products Section -->
+        <section id="cardapio" class="py-16 md:py-24 bg-gray-50">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="font-heading text-4xl md:text-5xl text-gray-800">Nosso Cardápio Divino</h2>
+                    <p class="text-lg text-gray-600 mt-2">Escolha seus favoritos e prepare-se para a tentação.</p>
+                </div>
+
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                    <!-- Product Card: Coxinha 50g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
+                        <img src="https://placehold.co/600x400/fbbf24/422006?text=Coxinha" alt="Imagem de coxinhas deliciosas" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Coxinha</h3>
+                            <p class="text-gray-600 mb-4">50g de pura cremosidade</p>
+                        </div>
+                    </div>
+
+                    <!-- Product Card: Bolinha de Queijo 50g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
+                        <img src="https://placehold.co/600x400/f97316/422006?text=Bolinha+de+Queijo" alt="Imagem de bolinhas de queijo derretendo" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Bolinha de Queijo</h3>
+                            <p class="text-gray-600 mb-4">50g de queijo que derrete na boca</p>
+                        </div>
+                    </div>
+
+                    <!-- Product Card: Maravilha 50g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
+                        <img src="https://placehold.co/600x400/f59e0b/422006?text=Maravilha" alt="Imagem do salgado maravilha" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Maravilha</h3>
+                            <p class="text-gray-600 mb-4">50g (Queijo e presunto)</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Product Card: Enroladinho de Salsicha 50g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
+                        <img src="https://placehold.co/600x400/ef4444/422006?text=Enroladinho" alt="Imagem de enroladinhos de salsicha" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Enroladinho</h3>
+                            <p class="text-gray-600 mb-4">50g (Salsicha)</p>
+                        </div>
+                    </div>
+
+                    <!-- Product Card: Croquete de Carne 50g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
+                        <img src="https://placehold.co/600x400/b91c1c/422006?text=Croquete+de+Carne" alt="Imagem de croquetes de carne" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Croquete de Carne</h3>
+                            <p class="text-gray-600 mb-4">50g de carne suculenta</p>
+                        </div>
+                    </div>
+                    
+                    <!-- Product Card: Calabresa 50g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300">
+                        <img src="https://placehold.co/600x400/dc2626/422006?text=Salgado+de+Calabresa" alt="Imagem de salgados de calabresa" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Salgado de Calabresa</h3>
+                            <p class="text-gray-600 mb-4">50g com um toque especial</p>
+                        </div>
+                    </div>
+
+                    <!-- Product Card: Coxinha Grande 170g -->
+                    <div class="bg-white rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300 sm:col-span-2 lg:col-span-1 xl:col-span-2">
+                        <img src="https://placehold.co/600x400/fb923c/422006?text=Coxinha+Gigante" alt="Imagem de uma coxinha grande e recheada" class="w-full h-48 object-cover">
+                        <div class="p-6 text-center">
+                            <h3 class="text-2xl font-bold text-gray-800">Coxinha GIGANTE</h3>
+                            <p class="text-gray-600 mb-4">170g para matar a sua fome!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Combos Section -->
+        <section id="combos" class="py-16 md:py-24 bg-white">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="font-heading text-4xl md:text-5xl text-gray-800">Combos Imperdíveis!</h2>
+                    <p class="text-lg text-gray-600 mt-2">A combinação perfeita para cada momento.</p>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                    <!-- Combo 1 -->
+                    <div class="border-2 border-orange-400 rounded-lg shadow-xl p-6 text-center flex flex-col">
+                        <h3 class="text-2xl font-bold text-orange-500">Combo Casal</h3>
+                        <p class="text-gray-600 mt-2 flex-grow">20 Salgados (até 2 sabores) + Refri 600ml</p>
+                        <a href="https://wa.me/5513997184720?text=Ol%C3%A1!%20Quero%20pedir%20o%20*Combo%20Casal*%20(20%20salgados%20%2B%20Refri%20600ml)." target="_blank" class="mt-6 bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105">Pedir esse Combo</a>
+                    </div>
+                    <!-- Combo 2 -->
+                    <div class="border-2 border-red-500 rounded-lg shadow-xl p-6 text-center flex flex-col bg-red-500 text-white">
+                        <h3 class="text-2xl font-bold">MAIS PEDIDO!</h3>
+                        <p class="text-xl font-heading">Combo Família</p>
+                        <p class="mt-2 flex-grow">50 Salgados (até 5 sabores) + Refri 2L</p>
+                        <a href="https://wa.me/5513997184720?text=Ol%C3%A1!%20Quero%20pedir%20o%20*Combo%20Fam%C3%ADlia*%20(50%20salgados%20%2B%20Refri%202L)." target="_blank" class="mt-6 bg-white text-red-500 font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105">Eu Quero!</a>
+                    </div>
+                    <!-- Combo 3 -->
+                    <div class="border-2 border-orange-400 rounded-lg shadow-xl p-6 text-center flex flex-col">
+                        <h3 class="text-2xl font-bold text-orange-500">Combo Mix</h3>
+                        <p class="text-gray-600 mt-2 flex-grow">30 Salgados (você escolhe os sabores!)</p>
+                        <a href="https://wa.me/5513997184720?text=Ol%C3%A1!%20Quero%20pedir%20o%20*Combo%20Mix*%20(30%20salgados)." target="_blank" class="mt-6 bg-orange-500 hover:bg-orange-600 text-white font-bold py-3 px-6 rounded-lg transition-transform transform hover:scale-105">Pedir esse Combo</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Party Section -->
+        <section id="festa" class="py-16 md:py-24 bg-gray-50">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="font-heading text-4xl md:text-5xl text-gray-800">Salgados para sua Festa!</h2>
+                    <p class="text-lg text-gray-600 mt-2 max-w-2xl mx-auto">Deixe sua comemoração mais gostosa e prática. Peça nossos salgados em grandes quantidades e surpreenda seus convidados!</p>
+                </div>
+                <div class="bg-white rounded-lg shadow-lg p-8 max-w-4xl mx-auto flex flex-col md:flex-row items-center gap-8">
+                    <img src="https://storage.googleapis.com/gemini-prod-us-west1-920950005511/uploaded/image.png-9c5a909e-6e91-4280-aa54-da9ee1c8486b" alt="Caixa com muitos salgados para festa" class="w-full md:w-1/2 h-auto rounded-lg shadow-md">
+                    <div class="text-center md:text-left">
+                        <h3 class="text-2xl font-bold text-gray-800">O cento que faz a festa!</h3>
+                        <p class="text-gray-600 mt-4 mb-6">Oferecemos nossos deliciosos salgados no tamanho festa. Escolha os sabores que a galera mais gosta e nós preparamos tudo para você. Menos trabalho na cozinha, mais tempo para curtir!</p>
+                        <a href="https://wa.me/5513997184720?text=Ol%C3%A1%2C%20Santo%20Salgado!%20Gostaria%20de%20um%20or%C3%A7amento%20de%20salgados%20para%20festa." target="_blank" class="bg-green-500 hover:bg-green-600 text-white font-bold text-lg py-3 px-8 rounded-full shadow-lg transition-transform transform hover:scale-105 inline-flex items-center">
+                            <i data-lucide="party-popper" class="w-6 h-6 mr-3"></i>
+                            ORÇAMENTO PARA FESTA
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- CTA Section -->
+        <section class="bg-gradient-to-br from-amber-400 via-orange-500 to-red-600 text-white">
+            <div class="container mx-auto px-6 py-16 text-center">
+                <h2 class="font-heading text-4xl md:text-5xl mb-4">Chega de passar vontade!</h2>
+                <p class="text-lg md:text-xl mb-8">Seu lanche, sua festa ou seu momento de folga merecem um Santo Salgado.</p>
+                <a href="https://wa.me/5513997184720?text=Ol%C3%A1!%20Vim%20pelo%20site%20e%20quero%20pedir%20essas%20del%C3%ADcias!" target="_blank" class="bg-white text-orange-600 hover:bg-gray-200 font-bold text-lg py-4 px-8 rounded-full shadow-lg transition-transform transform hover:scale-105 inline-flex items-center">
+                    <i data-lucide="send" class="w-6 h-6 mr-3"></i>
+                    PEDIR AGORA MESMO
+                </a>
+            </div>
+        </section>
+    </main>
+    
+    <!-- WhatsApp Floating Button -->
+    <a href="https://wa.me/5513997184720?text=Ol%C3%A1%2C%20Santo%20Salgado!%20Tenho%20uma%20d%C3%BAvida." target="_blank" class="whatsapp-button bg-green-500 text-white p-4 rounded-full shadow-lg flex items-center justify-center">
+        <i data-lucide="whatsapp" class="w-8 h-8"></i>
+    </a>
+
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-8">
+        <div class="container mx-auto px-6 text-center">
+            <img src="https://storage.googleapis.com/gemini-prod-us-west1-920950005511/uploaded/image.png-e959ff7a-ce80-4ac6-ac50-f3fe794b3a2f" alt="Logo Santo Salgado" class="mx-auto mb-4 w-20 h-20 rounded-full">
+            <h3 class="text-2xl font-heading">Santo Salgado</h3>
+            <p class="mb-4">Sabor e tradição em Bertioga, SP</p>
+            <div class="flex justify-center items-center space-x-4 mb-4">
+                <a href="https://www.instagram.com/santosalgadox" target="_blank" class="text-gray-300 hover:text-white transition-colors">
+                    <i data-lucide="instagram" class="w-7 h-7"></i>
+                </a>
+                <a href="https://wa.me/5513997184720" target="_blank" class="text-gray-300 hover:text-white transition-colors">
+                    <i data-lucide="whatsapp" class="w-7 h-7"></i>
+                </a>
+            </div>
+            <p class="text-gray-400 text-sm">&copy; 2024 Santo Salgado. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Lucide Icons Script -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script>
+      lucide.createIcons();
+    </script>
+</body>
+</html>
